@@ -1,0 +1,6 @@
+/Ejercicios/*.docx
+.DS_Store
+*.sh
+/docs
+/multimedia
+/soluciones/resueltas
